@@ -46,6 +46,6 @@ public class BeerInventory extends BaseEntity {
     @Column(length = 36, columnDefinition = "varchar(36)", updatable = false, nullable = false )
     private UUID beerId;
 
-    private String upc; // in our case it is unique, but in reality in large warehouse systems sometimes they are not unique (even when they are supposed to)
+    private String upc;
     private Integer quantityOnHand = 0;
 }
