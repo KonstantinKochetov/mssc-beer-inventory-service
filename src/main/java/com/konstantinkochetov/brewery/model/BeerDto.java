@@ -1,4 +1,4 @@
-package com.konstantinkochetov.common.events;
+package com.konstantinkochetov.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

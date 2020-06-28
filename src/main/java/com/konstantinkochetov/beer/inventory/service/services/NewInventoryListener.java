@@ -1,6 +1,6 @@
 package com.konstantinkochetov.beer.inventory.service.services;
 
-import com.konstantinkochetov.common.events.NewInventoryEvent;
+import com.konstantinkochetov.brewery.model.events.NewInventoryEvent;
 import com.konstantinkochetov.beer.inventory.service.config.JmsConfig;
 import com.konstantinkochetov.beer.inventory.service.domain.BeerInventory;
 import com.konstantinkochetov.beer.inventory.service.repositories.BeerInventoryRepository;
