@@ -1,5 +1,7 @@
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/web/mappers/DateMapper.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/brewery/model/BeerDto.java
+/Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/services/AllocationService.java
+/Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/brewery/model/BeerOrderDto.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/repositories/BeerInventoryRepository.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/brewery/model/events/BeerEvent.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/BeerInventoryApplication.java
@@ -10,4 +12,6 @@
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/config/JmsConfig.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/brewery/model/BeerInventoryDto.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/brewery/model/events/NewInventoryEvent.java
+/Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/services/AllocationServiceImpl.java
+/Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/brewery/model/BeerOrderLineDto.java
 /Users/konstantin/Other/UdemyCoursera/MicroservicesJavaSpringGuru/mssc-brewery-workspace/mssc-beer-inventory-service/src/main/java/com/konstantinkochetov/beer/inventory/service/domain/BaseEntity.java
