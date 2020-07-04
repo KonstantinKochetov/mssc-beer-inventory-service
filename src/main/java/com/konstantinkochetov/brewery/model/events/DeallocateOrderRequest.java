@@ -1,19 +1,16 @@
 package com.konstantinkochetov.brewery.model.events;
 
+import com.konstantinkochetov.brewery.model.BeerOrderDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.io.Serializable;
 
 @Data
+@NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@NoArgsConstructor
-public class BeerEvent implements Serializable {
-
-    static final long serialVersionUID = -5781515597148163111L;
-
-    private BeerDto beerDto;
+public class DeallocateOrderRequest {
+    private BeerOrderDto beerOrderDto;
 }
